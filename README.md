@@ -1,7 +1,7 @@
 # Site felino
 
 <div align="center">
-<img src="https://github.com/CauiDavis/eng.soft/raw/main/images/scrum.png" width="250" />
+<img src="https://github.com/CauiDavis/site-felino/raw/main/img/gato%20800x400%201.jpg" width="250" />
 
 <div data-badges>
   <img src="https://img.shields.io/github/stars/CauiDavis/site-felino?style=for-the-badge" alt="GitHub stars" />
