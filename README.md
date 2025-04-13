@@ -29,7 +29,7 @@ Site felino é uma aplicação web que mostra alguns tipos de felinos.
 1. Clone este repositório:
 
    ```sh
-   git clone https://github.com/CauiDavis/eng.soft
+   git clone https://github.com/CauiDavis/site-felino
    ```
 
 2. Acesse o projeto no localhost da sua máquina
@@ -39,5 +39,5 @@ Site felino é uma aplicação web que mostra alguns tipos de felinos.
 - criação do frontend
 - otimização de código
 <div align="center">
-  <img src="https://github.com/CauiDavis/site-felino/raw/main/images/alpha-scrum.png" width="1000"/>
+  <img src="https://github.com/CauiDavis/site-felino/raw/main/img/tipos-de-felinos.png" width="1000"/>
 <div/>
